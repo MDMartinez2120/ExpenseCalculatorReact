@@ -5,7 +5,7 @@
 <hr>
 <p>The purpose of this project is to be able to keep track of your expenses. You can filter by month to see past spending. There is a nice reactive chart to see monthly spending at a glance.</p>
 
-<img src="./assets/ExpenseTracker.gif" width="1278" alt=""/>
+<img src="./assets/ExpenseTracker.gif" width="500" alt=""/>
 
 <h2>Technologies</h2>
 <hr>
